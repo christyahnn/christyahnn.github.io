@@ -1,6 +1,6 @@
 /* Basic Reset */
 * {
-    margin: 0;
+    margin: 1;
     padding: 0;
     box-sizing: border-box;
    }
@@ -8,21 +8,21 @@
     font-family: 'Georgia', sans-serif;
     line-height: 1.6;
     padding: 20px;
-    background-color: #f4f4f4;
+    background-color: #d1e2c2;
    }
    .header {
     text-align: center;
     margin-bottom: 20px;
    }
    .profile-img {
-    width: 80px;
+    width: 20px;
     height: auto;
     border-radius: 50%;
    }
    h1 {
     margin-top: 10px;
    }
-   .bio, .projects {
+   .poem {
     margin-bottom: 20px;
    }
    a {
