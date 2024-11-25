@@ -37,6 +37,7 @@
    }
    a:hover {
     text-decoration: underline;
+    color: blue
    }
    footer {
     text-align: center;
