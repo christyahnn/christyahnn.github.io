@@ -3,12 +3,12 @@
     margin: 1;
     padding: 0;
     box-sizing: border-box;
+    background-color: #b1c0a4;
    }
    body {
     font-family: 'Georgia', sans-serif;
     line-height: 1.6;
     padding: 20px;
-    background-color: #d1e2c2;
    }
    .header {
     text-align: center;
