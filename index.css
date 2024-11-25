@@ -26,6 +26,9 @@
    .poem {
     margin-bottom: 20px;
    }
+   h2 {
+    height: 20px;
+   }
    a {
     color: #333;
     text-decoration: none;
